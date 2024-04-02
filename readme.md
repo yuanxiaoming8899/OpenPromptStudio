@@ -1,162 +1,175 @@
-# 🥣 OPS/OpenPromptStudio
-
-## 提示词工作室 | 可视化编辑提示词
-
-<p align="center">
-    <img width="1430" alt="OPS-cover" src="https://user-images.githubusercontent.com/82231420/230757122-5cf5659e-9e1a-4288-80fd-84ec229a063e.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🥣OPS/OpenPromptStudio</font></font></h1><a id="user-content--opsopenpromptstudio" class="anchor" aria-label="永久链接：🥣 OPS/OpenPromptStudio" href="#-opsopenpromptstudio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提示词工作室|可视化编辑提示词</font></font></h2><a id="user-content-提示词工作室--可视化编辑提示词" class="anchor" aria-label="永久链接： 提示词工作室 |可视化编辑提示词" href="#提示词工作室--可视化编辑提示词"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/82231420/230757122-5cf5659e-9e1a-4288-80fd-84ec229a063e.png"><img width="1430" alt="OPS-封面" src="https://user-images.githubusercontent.com/82231420/230757122-5cf5659e-9e1a-4288-80fd-84ec229a063e.png" style="max-width: 100%;"></a>
 </p>
-
-[**🥣 立即试试** moonvy.com/apps/ops/](https://moonvy.com/apps/ops/)
-
-这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
-
--   显示英文提示词的中文翻译
--   翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
--   为提示词进行分类（普通、样式、质量、命令）
--   轻松的排序、隐藏提示词
--   把提示词可视化结果导出为图片
--   常用提示词词典
--   通过 Notion 管理提示词词典
-
-## 使用教程
-
-<a href="https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&vd_source=1f6edbc8e03c44932da52d02c0c11c1c" target="_blank">
- <img width="300" alt="OPS-cover" src="https://user-images.githubusercontent.com/82231420/230757939-dde301f1-bf68-4455-83c6-f7dd2214c68b.png">
+<p dir="auto"><a href="https://moonvy.com/apps/ops/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🥣立即尝试</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">moonvy.com/apps/ops/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一个旨在将AIGC提示词（现已支持Midjourney）可视化并提供编辑功能的工具，有以下功能</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">显示英文提示词的中文翻译</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译输入的中文提示词到中文（因为Midjourney仅支持中文提示词）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为提示词进行分类（普通、样式、质量、命令）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松的排序、隐藏提示词</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">把提示词可视化结果导出为图片</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常用提示词搜索</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过Notion管理提示词搜索</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用教程</font></font></h2><a id="user-content-使用教程" class="anchor" aria-label="永久链接：使用教程" href="#使用教程"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a href="https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&amp;vd_source=1f6edbc8e03c44932da52d02c0c11c1c" rel="nofollow">
+ <img width="300" alt="OPS-封面" src="https://user-images.githubusercontent.com/82231420/230757939-dde301f1-bf68-4455-83c6-f7dd2214c68b.png" style="max-width: 100%;">
 </a>
-
-[📺 B 站视频教程](https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&vd_source=1f6edbc8e03c44932da52d02c0c11c1c)
-
-## 如何连接的我的 Notion 来管理自己的词典
-
-OPS 支持使用 [Notion](https://www.notion.so/) 来管理自己的词典，使用 Notion 管理相对简单，可自定义程度也很高。
-
-![ ](./doc/assets/notion-me.gif)
-
-### 1. 复制「演示-AIGC 提示词库」
-
-复制我们的演示文档的自己的 Notion 工作区中
-
-[**📕 演示-AIGC 提示词库**](https://moonvy.notion.site/b768c5c1852f4e2fbaee1b4a99f26d49?v=346e91e8114648c59079eeea2d9d56c7)
-
-<p align="center">
-    <img width="720" src="./doc/assets/notion-demo.jpg">
+<p dir="auto"><a href="https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&amp;vd_source=1f6edbc8e03c44932da52d02c0c11c1c" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📺B站视频教程</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何连接我的概念来管理自己的搜索</font></font></h2><a id="user-content-如何连接的我的-notion-来管理自己的词典" class="anchor" aria-label="永久链接：如何连接我的概念来管理自己的搜索" href="#如何连接的我的-notion-来管理自己的词典"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OPS支持使用</font></font><a href="https://www.notion.so/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notion</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来管理自己的字典，使用Notion管理相对简单，可自定义程度也很好。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc/assets/notion-me.gif" data-target="animated-image.originalLink"><img src="/Moonvy/OpenPromptStudio/raw/master/doc/assets/notion-me.gif" alt=" " style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Moonvy/OpenPromptStudio/blob/master/doc/assets/notion-me.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt=" " class="AnimatedImagePlayer-animatedImage" src="https://github.com/Moonvy/OpenPromptStudio/raw/master/doc/assets/notion-me.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="831" height="284"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩  " hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩  ">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开" class="AnimatedImagePlayer-button" href="https://github.com/Moonvy/OpenPromptStudio/blob/master/doc/assets/notion-me.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. 复制「演示-AIGC 提示词库」</font></font></h3><a id="user-content-1-复制演示-aigc-提示词库" class="anchor" aria-label="永久链接：1.复制「演示-AIGC 提示词库」" href="#1-复制演示-aigc-提示词库"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制我们自己的概念的演示文档 工作区</font></font></p>
+<p dir="auto"><a href="https://moonvy.notion.site/b768c5c1852f4e2fbaee1b4a99f26d49?v=346e91e8114648c59079eeea2d9d56c7" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📕 演示-AIGC 提示词库</font></font></strong></a></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc/assets/notion-demo.jpg"><img width="720" src="/Moonvy/OpenPromptStudio/raw/master/doc/assets/notion-demo.jpg" style="max-width: 100%;"></a>
 </p>
-
-保持表头定义： `text`, `subType`、`dir`、`lang_zh` 不要变（或者你可以新建一个 Notion 数据库，只要有这些表头 OPS 就能连接的这个数据库）
-
-#### Notion 表头定义
-
-| 表头    | 作用                                                    |
-| ------- | ------------------------------------------------------- |
-| text    | 提示词原文（不区分大小写）                              |
-| lang_zh | 对应的中文翻译                                          |
-| subType | 提示词在 OPS 中的分类（`普通`、`风格`、`质量`、`命令`） |
-| dir     | 词典中的分类，子分类用`/`分隔如：`风格/绘画风格`        |
-| alias   | 别名，可以有多个，用`,` 分隔                            |
-
-### 2. 创建自己的 Notion 集成插件（integrations）
-
-要让 OPS 连接到自己的 Notion 数据库，需要创建一个自己的集成（integrations）。OPS 会通过此集成的权限连接到你的数据库。
-
-#### 2.1 打开集成开发页面
-
-打开 Notion 的集成开发页面 [🔗 www.notion.so/my-integrations](https://www.notion.so/my-integrations)
-点击 「+ new integrations」按钮创建一个新集成插件
-
-<p align="center">
-    <img width="720" src="./doc/assets/Myintegrations-1@2x.jpeg">
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保持表头定义：</font></font><code>text</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, </font></font><code>subType</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>dir</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>lang_zh</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不要变（或者你可以新建一个Notion数据库，只要有这些表头OPS就可以连接的这个数据库）</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概念表头定义</font></font></h4><a id="user-content-notion-表头定义" class="anchor" aria-label="永久链接：概念表头定义" href="#notion-表头定义"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表头</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作用</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提示词译文（不区分大小写）</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对应的中文翻译</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">子类型</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提示词在 OPS 中的分类（</font></font><code>普通</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>风格</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>质量</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>命令</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索中的分类，子分类用</font></font><code>/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分隔如：</font></font><code>风格/绘画风格</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">别名</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">别名，可以有多个，用</font></font><code>,</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分隔</font></font></td>
+</tr>
+</tbody>
+</table>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.创建自己的Notion集成插件（integrations）</font></font></h3><a id="user-content-2-创建自己的-notion-集成插件integrations" class="anchor" aria-label="永久链接：2.创建自己的Notion集成插件（integrations）" href="#2-创建自己的-notion-集成插件integrations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要让 OPS 连接到自己的概念数据库，需要创建一个自己的集成（integrations）。OPS 会通过这个集成的权限连接到你的数据库。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.1 打开集成开发页面</font></font></h4><a id="user-content-21-打开集成开发页面" class="anchor" aria-label="永久链接：2.1开放集成开发页面" href="#21-打开集成开发页面"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notion 的集成开发页面</font></font><a href="https://www.notion.so/my-integrations" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗 www.notion.so/my-integrations</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+点击「+ 新集成」按钮创建一个新的集成插件</font></font></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc/assets/Myintegrations-1@2x.jpeg"><img width="720" src="/Moonvy/OpenPromptStudio/raw/master/doc/assets/Myintegrations-1@2x.jpeg" style="max-width: 100%;"></a>
 </p>
-
-#### 2.2 创建集成插件
-
-在集成插件页面中选择允许访问的 Notion 工作区（Workspace），你的 Notion 数据库需要创建在此工作区下，OPS 才能通过集成插件访问。
-
-<p align="center">
-    <img width="720" src="./doc/assets/Myintegrations-2@2x.jpeg">
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.2 创建集成插件</font></font></h4><a id="user-content-22-创建集成插件" class="anchor" aria-label="永久链接：2.2 创建集成插件" href="#22-创建集成插件"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在集成插件页面中选择允许访问的Notion工作区（Workspace），您的Notion数据库需要创建这里工作区下，OPS才能通过集成插件访问。</font></font></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc/assets/Myintegrations-2@2x.jpeg"><img width="720" src="/Moonvy/OpenPromptStudio/raw/master/doc/assets/Myintegrations-2@2x.jpeg" style="max-width: 100%;"></a>
 </p>
-
-#### 2.3 获取集成插件 Token 密钥
-
-集成插件创建完毕后，复制 Token 秘钥保存下来，你将使用此 Token 作为访问凭证，请妥善保管不要在公开场合泄露。
-
-<p align="center">
-    <img width="720" src="./doc/assets/Myintegrations-3@2x.jpeg">
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.3 获取插件集成Token键</font></font></h4><a id="user-content-23-获取集成插件-token-密钥" class="anchor" aria-label="永久链接：2.3 获取集成插件 Token 键" href="#23-获取集成插件-token-密钥"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成插件创建完毕后，复制 Token 秘钥保存下来，您将使用此 Token 作为访问凭证，请保管不要在公开场合泄露。</font></font></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc/assets/Myintegrations-3@2x.jpeg"><img width="720" src="/Moonvy/OpenPromptStudio/raw/master/doc/assets/Myintegrations-3@2x.jpeg" style="max-width: 100%;"></a>
 </p>
-
-#### 2.4 在数据库页面链接到你的集成
-
-集成插件创建后，还需要在你的 Notion 数据库的菜单中连接到你的集成插件：
-
-<p align="center">
-    <img width="720" src="https://user-images.githubusercontent.com/82231420/230757501-7630d405-adcc-4611-aa8a-07875ce5a932.jpg">
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.4 在数据库页面链接到您的集成</font></font></h4><a id="user-content-24-在数据库页面链接到你的集成" class="anchor" aria-label="永久链接：2.4 在数据库页面链接到您的集成" href="#24-在数据库页面链接到你的集成"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建集成插件后，还需要在您的 Notion 数据库菜单中连接到您的集成插件：</font></font></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/82231420/230757501-7630d405-adcc-4611-aa8a-07875ce5a932.jpg"><img width="720" src="https://user-images.githubusercontent.com/82231420/230757501-7630d405-adcc-4611-aa8a-07875ce5a932.jpg" style="max-width: 100%;"></a>
 </p>
-
-### 3. 在 OPS 中配置 Notion
-
-在 OPS 右上角打开提示词词典，鼠标放在「连接我的 Notion」按钮上，展开设置面板
-
--   「Integrations Token」 里面填入前面我们生成的集成 Token 秘钥（秘钥只会保存在浏览器本地（localStorage），不会被上传到任何地方）
-
--   「Database ID」里粘贴你 Notion 数据库的访问地址
-
--   然后点击「载入」按钮
-
-<p align="center">
-    <img width="720" src="https://user-images.githubusercontent.com/82231420/230758301-57f5304e-b83b-4ee6-a91c-0c030e84213a.png">
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3. OPS中配置概念</font></font></h3><a id="user-content-3-在-ops-中配置-notion" class="anchor" aria-label="固定链接： 3. 在 OPS 中配置概念" href="#3-在-ops-中配置-notion"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在OPS右上角打开提示词词典，鼠标放在「连接我的概念」按钮上，展开设置面板</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">「Integrations Token」里面填入前面我们生成的集成Token秘钥（秘钥只能保存在浏览器本地（localStorage），不会被上传到任何地方）</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">「数据库 ID」里贴上你的概念数据库的访问地址</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后点击「加载」按钮</font></font></p>
+</li>
+</ul>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/82231420/230758301-57f5304e-b83b-4ee6-a91c-0c030e84213a.png"><img width="720" src="https://user-images.githubusercontent.com/82231420/230758301-57f5304e-b83b-4ee6-a91c-0c030e84213a.png" style="max-width: 100%;"></a>
 </p>
-
-#### 获取 Notion 数据库的访问地址（`DatabaseID`）
-
-在 Notion 数据库菜单中点击 「Copy link to view」 就可以了，粘贴 Notion 数据库地址到 OPS 的配置输入框后会自动提取 `DatabaseID`
-
-<p align="center">
-    <img width="720" src="https://user-images.githubusercontent.com/82231420/230758271-c2ee8ba3-e694-45db-a209-55c4d1744171.png">
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取Notion数据库的访问地址（</font></font><code>DatabaseID</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></h4><a id="user-content-获取-notion-数据库的访问地址databaseid" class="anchor" aria-label="永久链接：获取Notion数据库的访问地址（DatabaseID）" href="#获取-notion-数据库的访问地址databaseid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Notion数据库菜单中点击「复制链接查看」就可以了，粘贴Notion数据库地址到OPS的配置输入框后会自动提取</font></font><code>DatabaseID</code></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/82231420/230758271-c2ee8ba3-e694-45db-a209-55c4d1744171.png"><img width="720" src="https://user-images.githubusercontent.com/82231420/230758271-c2ee8ba3-e694-45db-a209-55c4d1744171.png" style="max-width: 100%;"></a>
 </p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更好的体验</font></font></h2><a id="user-content-更好的体验" class="anchor" aria-label="永久链接：更好的体验" href="#更好的体验"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在</font></font><a href="https://moonvy.com/zeroG/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zeroG浏览器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">里让OPS与Discord在一个无限的办公环境中使用，获得更好的体验</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/Moonvy/OpenPromptStudio/blob/master/doc%2Fassets%2F%E6%88%AA%E5%B1%8F2023-04-06%2015.51.23.png"><img src="/Moonvy/OpenPromptStudio/raw/master/doc%2Fassets%2F%E6%88%AA%E5%B1%8F2023-04-06%2015.51.23.png" alt="截屏2023-04-06 15.51.23.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者</font></font></h2><a id="user-content-开发者" class="anchor" aria-label="永久链接： 开发者" href="#开发者"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地运行需要NodeJS环境</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font></font><code>npm run start</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行打开后访问</font></font><code>localhost:12833/apps/ops/</code></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></h3><a id="user-content-docker" class="anchor" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果你不想安装NodeJS环境，可以使用Docker运行，参考</font></font><a href="https://github.com/Moonvy/OpenPromptStudio/tree/master/docker/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">./docker</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何修改默认提示词搜索</font></font></h3><a id="user-content-如何修改默认提示词词典" class="anchor" aria-label="永久链接：如何修改默认提示词搜索" href="#如何修改默认提示词词典"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><a href="https://github.com/Moonvy/OpenPromptStudio/tree/master/data/src"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">./data/src</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中编辑</font></font><code>.csv</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件，你可以使用Excel、Numbers或者纯文本编辑器编辑。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><a href="https://www.notion.so/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notion</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中编辑（</font></font><a href="https://github.com/Moonvy/OpenPromptStudio/tree/master/data/src/notion/fromNotion.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">./data/src/notion/fromNotion.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></p>
+</li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译服务</font></font></h3><a id="user-content-翻译服务" class="anchor" aria-label="永久链接：翻译服务" href="#翻译服务"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><code>./server</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件夹中一个翻译服务的简单实现，调用腾讯翻译你需要一个</font></font><a href="https://bobtranslate.com/service/translate/tencent.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">腾讯机器翻译的账号</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（每月免费额度 500 万字）然后在项目根目录创建一个</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件写入你申请的</font></font><code>SECRET_ID</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与</font></font><code>SECRET_KEY</code></p>
+<p dir="auto"><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<div class="highlight highlight-source-dotenv notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> 翻译机配置 https://bobtranslate.com/service/translate/tencent.html</span>
+<span class="pl-v">TENCENT_SECRET_ID</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>AKIDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<span class="pl-pds">"</span></span>
+<span class="pl-v">TENCENT_SECRET_KEY</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>a5XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<span class="pl-pds">"</span></span>
 
-## 更好的体验
-
-你可以在 [zeroG 浏览器](https://moonvy.com/zeroG/) 里让 OPS
-与 Discord 在一个无限画布中使用，获得更好的体验
-
-![截屏2023-04-06 15.51.23.png](./doc%2Fassets%2F%E6%88%AA%E5%B1%8F2023-04-06%2015.51.23.png)
-
-## 开发者
-
-本地运行需要 NodeJS 环境
-
-使用 `npm run start` 运行
-
-运行打开后访问 `localhost:12833/apps/ops/`
-
-### Docker
-
-如果你不想安装 NodeJS 环境，可以使用 Docker 运行，参考 [./docker](https://github.com/Moonvy/OpenPromptStudio/tree/master/docker/)
-
-### 如何修改默认提示词词典
-
-1. 在 [./data/src](https://github.com/Moonvy/OpenPromptStudio/tree/master/data/src) 中编辑 `.csv` 文件，你可以用 Excel、Numbers 或者纯文本编辑器编辑。
-
-2. 在 [Notion](https://www.notion.so/) 中编辑（[./data/src/notion/fromNotion.js](https://github.com/Moonvy/OpenPromptStudio/tree/master/data/src/notion/fromNotion.js) ）
-
-### 翻译服务
-
-在 `./server` 文件夹中有一个翻译服务的简单实现，调用腾讯翻译
-你需要申请一个[腾讯机器翻译的账号](https://bobtranslate.com/service/translate/tencent.html)（每月免费额度 500 万字）
-然后在项目根目录创建一个 `.env` 文件写入你的的 `SECRET_ID` 与 `SECRET_KEY`
-
-`.env`：
-
-```env
-# 翻译机配置 https://bobtranslate.com/service/translate/tencent.html
-TENCENT_SECRET_ID="AKIDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-TENCENT_SECRET_KEY="a5XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+<span class="pl-c"><span class="pl-c">#</span> 自定义翻译服务地址 [可选] (如果你部署在服务器上，通过此配置指定 Web 端访问翻译服务的地址)</span>
+<span class="pl-c"><span class="pl-c">#</span> LOCAL_TRANSLATE_HOST="192.168.50.222:3000"</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# 翻译机配置 https://bobtranslate.com/service/translate/tencent.html
+TENCENT_SECRET_ID=&quot;AKIDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&quot;
+TENCENT_SECRET_KEY=&quot;a5XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&quot;
 
 # 自定义翻译服务地址 [可选] (如果你部署在服务器上，通过此配置指定 Web 端访问翻译服务的地址)
-# LOCAL_TRANSLATE_HOST="192.168.50.222:3000"
-```
-
-然后运行 `npm run serve` 启动 `OPS 服务` 和 `本地翻译服务`
-
-#### 自部署
-
-如果要部署到自己的服务器，请在 `.env` 文件中配置翻译服务的访问地址： `LOCAL_TRANSLATE_HOST`，如 `192.168.50.222:3000`或者`https://mySite.com`，在 Web 页中会根据此地址发起请求，请根据你部署后实际访问地址来配置。
+# LOCAL_TRANSLATE_HOST=&quot;192.168.50.222:3000&quot;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后运行</font></font><code>npm run serve</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动</font></font><code>OPS 服务</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>本地翻译服务</code></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自部署</font></font></h4><a id="user-content-自部署" class="anchor" aria-label="永久链接：自行部署" href="#自部署"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果要到配置自己的服务器，请在</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中配置翻译服务的访问地址：</font></font><code>LOCAL_TRANSLATE_HOST</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font><code>192.168.50.222:3000</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者</font></font><code>https://mySite.com</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，在Web页面中会根据此地址发起请求，请根据您配置后实际访问地址来配置。</font></font></p>
+</article></div>
